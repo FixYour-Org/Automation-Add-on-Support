@@ -17,5 +17,5 @@ jobs:
           # to the issue
           project-url: https://github.com/orgs/FixYour-Org/projects/1
           github-token: ${{ secrets.ADD_TO_AAA_PROJECT_PAT }}
-          labeled: bug, needs-triage
+          labeled: bug, feature
           label-operator: OR
